@@ -17,14 +17,18 @@ Implement a checkout system that fulfills above requirement
 
 Test Data
 ---------------------------------
-Cart:FR1,SR1,FR1,FR1,CF1
-Total Price Expected: $11.61
 
-Cart:FR1,FR1
-Total Price Expected:$3.11
+**Cart:FR1,SR1,FR1,FR1,CF1**
+<br>
+**Total Price Expected: $11.61**
 
-Cart: SR1,SR1,FR1,SR1
-Total Price Expected:$5.11
+**Cart:FR1,FR1**
+<br>
+**Total Price Expected:$3.11**
+
+**Cart: SR1,SR1,FR1,SR1**
+<br>
+**Total Price Expected:$5.11**
 
 
 
